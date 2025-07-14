@@ -1,0 +1,17 @@
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\dotNet\MissionDay7\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+D:\dotNet\MissionDay7\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
